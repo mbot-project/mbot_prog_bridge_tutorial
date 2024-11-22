@@ -1,2 +1,7 @@
-# mbot_prog_bridge_tutorial
-Template for tutorial on programming the robot with the MBot Bridge.
+# MBot Programming Tutorial: MBot Bridge
+
+This template repository contains exercises to learn to program the MBot using the MBot Bridge API.
+
+The tutorial is available for two languages:
+* [C++](follow_me_cpp/)
+* [Python](follow_me_py/)
