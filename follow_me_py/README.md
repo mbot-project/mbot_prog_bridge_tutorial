@@ -1,4 +1,4 @@
-# Follow Me (C++)
+# Follow Me (Python)
 
 Edit the file `follow_me.py` to write a program that keeps the robot a fixed distance away from a target directly in front of it.
 
